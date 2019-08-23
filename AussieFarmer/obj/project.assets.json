@@ -11809,11 +11809,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cooper\\ComputerPrograming\\Coded Games\\AussieFarmer3\\AussieFarmer\\AussieFarmer\\AussieFarmer.csproj",
+      "projectUniqueName": "C:\\Cooper\\ComputerPrograming\\Coded Games\\AussieFarmer\\AussieFarmer\\AussieFarmer.csproj",
       "projectName": "AussieFarmer",
-      "projectPath": "C:\\Cooper\\ComputerPrograming\\Coded Games\\AussieFarmer3\\AussieFarmer\\AussieFarmer\\AussieFarmer.csproj",
+      "projectPath": "C:\\Cooper\\ComputerPrograming\\Coded Games\\AussieFarmer\\AussieFarmer\\AussieFarmer.csproj",
       "packagesPath": "C:\\Users\\Canine.Witty\\.nuget\\packages\\",
-      "outputPath": "C:\\Cooper\\ComputerPrograming\\Coded Games\\AussieFarmer3\\AussieFarmer\\AussieFarmer\\obj\\",
+      "outputPath": "C:\\Cooper\\ComputerPrograming\\Coded Games\\AussieFarmer\\AussieFarmer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
