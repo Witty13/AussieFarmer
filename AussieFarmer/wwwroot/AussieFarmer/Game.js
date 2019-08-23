@@ -217,7 +217,7 @@
         document.getElementById('GameBox').innerHTML = `
             </br></br></br></br></br></br></br>
             <img class="BeginningTractor"
-                 src="AussieFarmers/Images/TractorAndTrailer.png" />
+                 src="AussieFarmer/Images/TractorAndTrailer.png" />
             </br></br></br></br>
             <h1 class="BeginningScreenLoading">
                 Loading...
@@ -236,7 +236,7 @@
             onclick="a_game.TheGameSave.DrawCheckSave()">Save</button>-->
 
             <div id="CoinDiv">
-            <img id="CoinImage" src="AussieFarmers/Images/Coin.png"/>
+            <img id="CoinImage" src="AussieFarmer/Images/Coin.png"/>
                 <span class="CoinTextNumber" id="CurrencyDisplay"></span>
             
             </div>
@@ -248,7 +248,7 @@
                     id="ChickenPaddock"
                     class="AnimalPaddock">
                 </Button>
-                <img src="AussieFarmers/Images/Chicken.png" 
+                <img src="AussieFarmer/Images/Chicken.png" 
                     class="animalImage"/>
                 <div id="ChickenInfo" class="AnimalText"></div>
                 <button class="cfkbutto AddButton" id="ChickenAdd" 
@@ -263,7 +263,7 @@
                     id="PigPaddock"
                     class="AnimalPaddock">
                 </Button>
-                <img src="AussieFarmers/Images/Pig.png" 
+                <img src="AussieFarmer/Images/Pig.png" 
                     class="animalImage"/>
                 <div id="PigInfo" class="AnimalText"></div>
                 <button class="cfkbutto AddButton" id="PigAdd" 
@@ -278,7 +278,7 @@
                     id="SheepPaddock"
                     class="AnimalPaddock">
                 </Button>
-                <img src="AussieFarmers/Images/Sheep.png" 
+                <img src="AussieFarmer/Images/Sheep.png" 
                     class="animalImage"/>
                 <div id="SheepInfo" class="AnimalText"></div>
                 <button class="cfkbutto AddButton" id="SheepAdd" 
@@ -294,7 +294,7 @@
                     id="CowPaddock"
                     class="AnimalPaddock">
                 </Button>
-                <img src="AussieFarmers/Images/Cow.png" 
+                <img src="AussieFarmer/Images/Cow.png" 
                     class="animalImage"/>
                 <div id="CowInfo" class="AnimalText"></div>
                 
@@ -310,7 +310,7 @@
                     id="KangarooPaddock"
                     class="AnimalPaddock">
                 </Button>
-                <img src="AussieFarmers/Images/Kangaroo.png" 
+                <img src="AussieFarmer/Images/Kangaroo.png" 
                     class="animalImage"/>
                 <div id="KangarooInfo" class="AnimalText"></div>
                 <button class="cfkbutto AddButton" id="KangarooAdd" 
@@ -325,7 +325,7 @@
                     id="DeerPaddock"
                     class="AnimalPaddock">
                 </Button>
-                <img src="AussieFarmers/Images/Deer.png" 
+                <img src="AussieFarmer/Images/Deer.png" 
                     class="animalImage"/>
                 <div id="DeerInfo" class="AnimalText"></div>
                 <button class="cfkbutto AddButton" id="DeerAdd" 
@@ -340,7 +340,7 @@
                     id="KoalaPaddock"
                     class="AnimalPaddock">
                 </Button>
-                <img src="AussieFarmers/Images/Koala.png" 
+                <img src="AussieFarmer/Images/Koala.png" 
                     class="animalImage"/>
                 <div id="KoalaInfo" class="AnimalText"></div>
                 <button class="cfkbutto AddButton" id="KoalaAdd" 
@@ -355,7 +355,7 @@
                     id="EchidnaPaddock"
                     class="AnimalPaddock">
                 </Button>
-                <img src="AussieFarmers/Images/Echidna.png" 
+                <img src="AussieFarmer/Images/Echidna.png" 
                     class="animalImage"/>
                 <div id="EchidnaInfo" class="AnimalText"></div>
                 <button class="cfkbutto AddButton" id="EchidnaAdd" 
@@ -370,7 +370,7 @@
                     id="EaglePaddock"
                     class="AnimalPaddock">
                 </Button>
-                <img src="AussieFarmers/Images/Eagle.png" 
+                <img src="AussieFarmer/Images/Eagle.png" 
                     class="animalImage"/>
                 <div id="EagleInfo" class="AnimalText"></div>
                 <button class="cfkbutto AddButton" id="EagleAdd" 

@@ -99,7 +99,7 @@
             document.getElementById(`${this.Name}ItemDiv`).innerHTML = `
                 <img id="${this.Name}Item" class="ItemImage"
                     onclick="a_game.${this.Name}.WhenPressed()"
-                    src="AussieFarmers/Images/${this.ItemName}.png"/>
+                    src="AussieFarmer/Images/${this.ItemName}.png"/>
             `;
             this.ItemDispayFirst = false;
         }
